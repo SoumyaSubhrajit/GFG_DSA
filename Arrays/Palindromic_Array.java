@@ -31,4 +31,4 @@ public class Palindromic_Array{
     System.out.println(res);
   }
 }
-// add this
+// add this is change//
