@@ -1,3 +1,4 @@
+package Arrays;
 public class Palindromic_Array{
   public static int palinArray(int[] a, int n)
   {
