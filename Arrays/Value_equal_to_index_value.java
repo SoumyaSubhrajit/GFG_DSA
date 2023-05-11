@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Value_equal_to_index_value {
   ArrayList<Integer> valueEqualToIndex(int arr[], int n) {
     // code here
