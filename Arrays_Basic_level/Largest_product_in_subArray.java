@@ -18,3 +18,4 @@ for(int i=k; i<A.length; i++){
 return maxMul;
   }
 }
+
