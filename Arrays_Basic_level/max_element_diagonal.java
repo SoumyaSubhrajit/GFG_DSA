@@ -11,6 +11,7 @@ public class max_element_diagonal {
           {
               if((i==0 && j==0) || i==j || (i==arr.length-1  && j== arr[i].length-1))
                   max1 = Math.max(max1, arr[i][j]);
+                  // dsa 
 
              if((i==0  && j==arr[i].length-1) || (i==j && i>0 && i< arr.length-1 ) || (i==arr[i].length-1  && j== 0))
                   max2 = Math.max(max2, arr[i][j]);
